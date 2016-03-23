@@ -1,4 +1,7 @@
-body{    background-image: url("b0b5ebaa-a732-4135-856e-b7c266c3bcec");}
-h1,p {
-    color: white;
-   center: 20px;
+body {text-align: center;
+background: url("Tranqil back group");
+  background-size:cover;
+color: #fff;
+font-family: Helvetica;}
+hr{width: 200px;}
+p{font-size: 22px;}
