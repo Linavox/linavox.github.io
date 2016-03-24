@@ -70,7 +70,7 @@ overflow: auto;
 	content: "";
 	hieght:0;
 }
-#two_column {
+section {
     background-color: #e6ffff;
     border: 1px black solid;
     padding: 20px;
