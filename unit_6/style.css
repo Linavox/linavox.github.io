@@ -42,6 +42,11 @@ background: #222;
 color:#fff;
 overflow: auto;
 }
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
 div {
   font-size: 1.2em;
   width: 46%;
