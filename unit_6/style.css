@@ -17,19 +17,19 @@ h1 {
 h2 {
 	font-size: 1.5em;
 	padding: .8em 0;
-  color: #fffebb;
-  border-bottom-color: #fffebb;
+  color: #c3f9ec;
+  border-bottom-color:#c3f9ec;
 }
 
 img {
 	display: block;
 	margin: 0 auto;
-  width: 480px;
+  width: 800px;
 float: none;} 
 nav {
 	font-size: 1.8em;
  	float: right;
- 	background: gray;
+ 	
 } 
 nav a {	
 	text-decoration: none;
