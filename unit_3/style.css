@@ -7,16 +7,17 @@ font-family: 'Raleway', sans-serif;font-size: 18px;}
 hr{width: 2em;}
 p{font-size: 2em;}
 img {
+float: left;
   display: block;
   margin: 0 auto
 }
 header {
-    background-color: #FFED74;
     border: 1px black solid;
     padding: 20px;
 }
 nav {font-size: 1.8em;
 float: right;
+background: grey;
 }
 nav a {text-decoration: none;
 color: #000000;
@@ -57,18 +58,18 @@ div/section {
     padding: 20px;
 }
 section {
-background: #222;
+background: #000;
 color:#fff;
 overflow: auto;
 }
 #two_column {
-    background-color: #000;
+    background-color: #e6ffff;
     border: 1px black solid;
     padding: 20px;
 }
 
 #left {
-    background-color: #E6F3FF;
+    background-color: #e6ffff;
     border: 1px black solid;
     padding: 20px;
     float: left;
@@ -76,11 +77,11 @@ overflow: auto;
 }
 
 #right {
-    background-color: #B0CCBE;
+    background-color: #f2f2f2;
     border: 1px black solid;
     padding: 20px;
     width: 62%;
-     float: right;
+    float: right;
 }
 .clearfix:after {
     visibility: hidden;
