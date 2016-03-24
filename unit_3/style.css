@@ -15,7 +15,8 @@ header {
     border: 1px black solid;
     padding: 20px;
 }
-nav {font-size: 1.8em;
+nav {
+font-size: 1.8em;
 float: right;
 background: grey;
 }
@@ -62,21 +63,27 @@ background: #000;
 color:#fff;
 overflow: auto;
 }
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	hieght:0;
+}
 #two_column {
     background-color: #e6ffff;
     border: 1px black solid;
     padding: 20px;
 }
 
-#left {
+aside {
     background-color: #e6ffff;
     border: 1px black solid;
     padding: 20px;
     float: left;
     width: 30%;
 }
-
-#right {
+article {
     background-color: #f2f2f2;
     border: 1px black solid;
     padding: 20px;
