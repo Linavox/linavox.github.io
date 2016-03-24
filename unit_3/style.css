@@ -8,7 +8,7 @@ hr{width: 2em;}
 p{font-size: 2em;}
 img {
   display: block;
-  margin: 0 auto;
+  margin: 0 auto
 }
 header {
     background-color: #FFED74;
@@ -23,14 +23,24 @@ color: #000000;
 margin: 1.8em;
 display: inline-block;
 }
+div {
+  font-size: 1.2em;
+  width: 46%;
+  padding: 2%;
+  display: inline-block;
+}
+#hero{
+  display: block;
+  width: 100%;
+  margin: 0;
+  background: #fffebb;
+}
 
 aside {
-    background-color: #FFC675;
     border: 1px black solid;
     padding: 20px;
 }
 article {
-    background-color: #E89C6C;
     border: 1px black solid;
     padding: 20px;footer{
   text-align: center;
@@ -38,12 +48,45 @@ article {
 
 }
 footer {
-    background-color: #FF957E ;
     border: 1px black solid;
     padding: 20px;
 }
 div/section {
-    background-color: #FFE2B8;
+  ;
     border: 1px black solid;
     padding: 20px;
+}
+section {
+background: #222;
+color:#fff;
+overflow: auto;
+}
+#two_column {
+    background-color: #000;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #E6F3FF;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    background-color: #B0CCBE;
+    border: 1px black solid;
+    padding: 20px;
+    width: 62%;
+     float: right;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
 }
