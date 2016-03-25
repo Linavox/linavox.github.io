@@ -77,13 +77,13 @@ div {
 float: left;
 }
 #services{float: right;
-	padding: 4em 0;
+	padding: 1em 1em 1em 1em;
 }
 #sample1{float: left;
 width: 30%;}
 #sample2{float: right;
 	width: 30%;
-	padding: 4em 0;}
+	padding: 1em 1em 1em 1em;}
 }
 footer {
 	text-align: center;
