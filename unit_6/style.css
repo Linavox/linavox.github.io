@@ -19,7 +19,6 @@ h2 {
 	padding: .8em 0;
   color: #c3f9ec;
   border-bottom-color:#c3f9ec;
-  float:none;
 }
 
 img {
@@ -48,8 +47,8 @@ ul {
 	margin: 0;
 	padding: 0;
 	float: none;
-	text-align: center;
 }
+ul,h2 {text-align: right;}
 div {
   font-size: 1.2em;
   width: 46%;
