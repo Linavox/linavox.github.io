@@ -46,6 +46,9 @@ nav a {
 	margin: 1.8em;
 	display: inline-block;
 }
+a:hover {background-color: #c3f9ec;
+}
+
 section {
 background: #222;
 color:#fff;
