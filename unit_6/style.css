@@ -29,7 +29,7 @@ img {
 	display: block;
 	margin: 0 auto;
 	width: 480px;
-	float: none;
+	position: center;
 } 
 nav {
 	font-size: 1.8em;
@@ -50,7 +50,6 @@ div {
   font-size: 1.2em;
   width: 46%;
   padding: 2%;
-  display: inline-block;
 }
 #hero{
   display: block;
