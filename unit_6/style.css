@@ -28,14 +28,12 @@ p {
 img {
 	display: block;
 	margin: 0 auto;
-  width: 600px;
-float: none;} 
+  width: 800px;
+  float: none;
+} 
 nav {
 	font-size: 1.8em;
  	float: right;
-
-
- 	
 } 
 nav a {	
 	text-decoration: none;
