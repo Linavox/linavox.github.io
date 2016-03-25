@@ -58,16 +58,8 @@ div {
 }
 #book{float: right;
 	width: 600px;
-	clear: both
+	clear: right
 	margin: 0 0 10px 10px;
-}
-.clearfix: #book {
-	visibility: hidden;
-	display: block;
-	font-size: 0;
-	content: "";
-	clear: both;
-	height: 0;
 }
 #hero{
   display: block;
