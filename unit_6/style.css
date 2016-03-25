@@ -2,8 +2,11 @@
 body {
 	font-size: 18px;
 	font-family: 'Open Sans', sans-serif;
+	background: url("images/Tranqil back group.gif");
   background-size:cover;
   align-items: center;
+}
+
 }
 h1,h2 {
 	text-transform: uppercase;
@@ -64,25 +67,20 @@ div {
 #logo{
   display: block;
   width: 100%;
-  margin: 0;
- background-color: #c3f9ec;
+  margin: 0 auto;
+ background: url("images/Tranqil back group.gif");
   float: none;
 }
-#logo{ position: absolute; top: 25px; left: 5px; 
-}
-
 #about{
 float: left;
-clear:left;
 }
 #services{float: right;
-	clear:right;
 }
 
 footer {
 	text-align: center;
 	padding: 1em 0;
-	clear: both; 
+  clear: both; 
 }
 @media only screen and (max-width: 800px){
 	nav {
