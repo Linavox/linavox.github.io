@@ -56,6 +56,7 @@ div {
   font-size: 1.2em;
   width: 46%;
   padding: 2%;
+  display:inline-block;
 }
 #hero{
   display: block;
