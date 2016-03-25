@@ -6,7 +6,6 @@ body {
   background-size:cover;
   align-items: center;
 }
-header{text-align: center;}
 }
 h1,h2 {
 	text-transform: uppercase;
@@ -70,6 +69,7 @@ div {
   margin: 0 auto;
  background-color: #c3f9ec;
   float: none;
+  text-align: center;
 }
 #about{
 float: left;
