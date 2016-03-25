@@ -2,13 +2,13 @@
 body {
 	font-size: 18px;
 	font-family: 'Open Sans', sans-serif;
-	background: url("images/Tranqil back group.gif");
   background-size:cover;
   align-items: center;
 }
 
-header{background-color: #c3f9ec;
-	float: none;
+header{
+	float: none
+	background: url("images/Tranqil back group.gif");
 }
 }
 h1,h2 {
