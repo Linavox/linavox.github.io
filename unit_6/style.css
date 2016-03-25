@@ -12,8 +12,11 @@ h1,h2 {
 	color: #c3f9ec;
 } 
 
-p{font-family: serif;
-font-size: 14px;
+p {
+  font-family: palatino,georgia,serif;
+  font-size: 18px;
+	line-height: 1.5em;
+	margin: 2em;
 }
 img {
 	display: block;
