@@ -75,7 +75,9 @@ float: left;
 }
 #services{float: right;
 }
-
+#sample1{float: left;}
+#sample2{float: right;
+}
 footer {
 	text-align: center;
 	padding: 1em 0;
