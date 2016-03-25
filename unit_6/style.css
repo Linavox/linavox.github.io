@@ -7,7 +7,6 @@ body {
 
 h1,h2 {
 	text-transform: uppercase;
-	border-bottom: 4px solid black;
 	display: inline-block;
 	font-weight: 800em;
 	
@@ -30,7 +29,7 @@ p {
 img {
 	display: block;
 	margin: 0 auto;
-	width: 700px;
+	width: 850px;
 } 
 nav {
 	font-size: 1.8em;
@@ -73,4 +72,31 @@ footer {
 	text-align: center;
 	padding: 1em 0;
   clear: both; 
+}
+@media only screen and (max-width: 800px){
+	nav {
+		float: none;}
+	nav a {
+      margin: 0 1.6em .75em 0;}
+    img {width: 320px;}
+    #about {
+    	font-size: 1.4em;
+    	line-height: 1.8em;
+    }
+}
+@media only screen and (max-width: 480px){
+  h1,nav{
+    display: block;
+    text-align: center;
+  }
+  nav a {
+    margin: 0 1em 1em;
+  }
+  section,div{width: 100%;
+  padding: .6em;
+  }
+  #services{ 
+    float: none;
+    font-size: 1.4em;
+  }
 }
