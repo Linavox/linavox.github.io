@@ -76,10 +76,10 @@ div {
 
 #about{
 float: left;
-clear:left;
+clear:both;
 }
 #services{float: right;
-	clear:right;
+	clear:both;
 }
 
 footer {
@@ -87,6 +87,7 @@ footer {
 	padding: 1em 0;
 	clear: both; 
 }
+
 @media only screen and (max-width: 800px){
 	nav {
 		float: none;}
