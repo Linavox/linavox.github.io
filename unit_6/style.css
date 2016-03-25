@@ -46,6 +46,7 @@ ul {
 	list-style: none;
 	margin: 0;
 	padding: 0;
+	float: left;
 }
 div {
   font-size: 1.2em;
