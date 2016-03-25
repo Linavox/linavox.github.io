@@ -8,10 +8,10 @@ h1,h2 {
 	text-transform: uppercase;
 	border-bottom: 4px solid black;
 	display: inline-block;
-	font-weight: 800em;
+	font-weight: 600em;
 	
 } 
-h1{color: #000;
+h1{color: black;
 font-size: 4em;
 }
 h2{color:#c3f9ec;
@@ -19,10 +19,11 @@ font-size: 2em;
 }
 
 p {
-  font-family: palatino,georgia,serif;
+	font-family: palatino,georgia,serif;
   font-size: 40px;
 	line-height: 1.5em;
 	margin: 0em;
+	float: left;
 }
 img {
 	display: block;
