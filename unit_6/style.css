@@ -2,6 +2,9 @@
 body {
 	font-size: 18px;
 	font-family: 'Open Sans', sans-serif;
+	background: url("images/Tranqil back group.gif");
+  background-size:cover;
+  align-items: center;
 }
 
 
