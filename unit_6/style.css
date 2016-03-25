@@ -5,12 +5,6 @@ body {
   background-size:cover;
   align-items: center;
 }
-
-header{
-	float: none
-	background: url("images/Tranqil back group.gif");
-}
-}
 h1,h2 {
 	text-transform: uppercase;
 	display: inline-block;
