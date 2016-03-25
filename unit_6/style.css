@@ -57,6 +57,7 @@ div {
 }
 #book{float: right;
 	width: 600px;
+	clear: both;
 }
 .clearfix: #book {
 	visibility: hidden;
