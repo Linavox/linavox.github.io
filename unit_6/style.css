@@ -78,8 +78,10 @@ float: left;
 }
 #services{float: right;
 }
-#sample1{float: left;}
+#sample1{float: left;
+width: 50%;}
 #sample2{float: right;
+	width: 50%;
 }
 footer {
 	text-align: center;
