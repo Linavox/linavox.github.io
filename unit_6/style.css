@@ -19,6 +19,7 @@ h2 {
 	padding: .8em 0;
   color: #c3f9ec;
   border-bottom-color:#c3f9ec;
+  float:none;
 }
 
 img {
