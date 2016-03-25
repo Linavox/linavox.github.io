@@ -79,8 +79,6 @@ float: left;
 #services{float: right;
 	padding: 1em 1em 1em 1em;
 }
-#sample1{float: left;
-width: 30%;}
 #sample2{float: none;
 	width: 30%;
 	padding: 1em 1em 1em 1em;}
