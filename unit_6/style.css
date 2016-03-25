@@ -71,7 +71,9 @@ div {
  background: url("images/Tranqil back group.gif");
   float: none;
 }
-#logo{ position: absolute; top: 25px; left: 5px; }
+#logo{ position: absolute; top: 25px; left: 5px; 
+	clear:both;
+}
 
 #about{
 float: left;
