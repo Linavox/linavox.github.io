@@ -53,11 +53,13 @@ div {
   font-size: 1.2em;
   width: 46%;
   padding: 2%;
-  display:inline-block;
+  display:inline-block
+  clear: left;
 }
 #book{float: right;
 	width: 600px;
-	clear: both;
+	clear: both
+	margin: 0 0 10px 10px;
 }
 .clearfix: #book {
 	visibility: hidden;
