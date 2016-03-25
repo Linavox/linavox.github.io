@@ -68,7 +68,7 @@ div {
   display: block;
   width: 100%;
   margin: 0;
-  background: #c3f9ec;
+  background: transparent;
   float: none;
 }
 #about{
