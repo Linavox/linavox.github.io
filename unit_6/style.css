@@ -8,6 +8,7 @@ body {
 }
 
 header{background-color: #c3f9ec;
+	float: none;
 }
 }
 h1,h2 {
