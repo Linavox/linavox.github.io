@@ -15,14 +15,15 @@ h1,h2 {
 	text-transform: uppercase;
 	border-bottom: 4px solid black;
 	display: inline-block;
-	font-weight: 600em;
+	font-weight: 800em;
 	
 } 
 h1{color: black;
 font-size: 2em;
 }
 h2{color:#c3f9ec;
-font-size: 1em;
+font-size: 1.5em;
+padding:.8em 0;
 }
 
 p {
