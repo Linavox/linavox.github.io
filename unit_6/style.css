@@ -12,15 +12,15 @@ h1,h2 {
 	
 } 
 h1{color: black;
-font-size: 4em;
+font-size: 2em;
 }
 h2{color:#c3f9ec;
-font-size: 2em;
+font-size: 1em;
 }
 
 p {
 	font-family: palatino,georgia,serif;
-  font-size: 40px;
+  font-size: 20px;
 	line-height: 1.5em;
 	margin: 0em;
 	float: left;
@@ -28,11 +28,13 @@ p {
 img {
 	display: block;
 	margin: 0 auto;
-  width: 1000px;
+  width: 600px;
 float: none;} 
 nav {
 	font-size: 1.8em;
  	float: right;
+
+
  	
 } 
 nav a {	
