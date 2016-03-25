@@ -55,8 +55,8 @@ div {
   padding: 2%;
   display:inline-block;
 }
-#book{float: left;
-	width: 400px;
+#book{float: none;
+	width: 600px;
 }
 #hero{
   display: block;
