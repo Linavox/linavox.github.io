@@ -55,8 +55,16 @@ div {
   padding: 2%;
   display:inline-block;
 }
-#book{float: none;
+#book{float: right;
 	width: 600px;
+}
+.clearfix: #book {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
 }
 #hero{
   display: block;
