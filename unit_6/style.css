@@ -51,7 +51,6 @@ section {
 background: #a0b4af;
 color: black;
 overflow: auto;
-clear: both;
 }
 div {
   font-size: 1.2em;
@@ -68,8 +67,8 @@ div {
 #logo{
   display: block;
   width: 100%;
-  margin: 0;
- background-color: #c3f9ec;
+  margin: 0 auto;
+ background: url("images/Tranqil back group.gif");
   float: none;
 }
 #logo{ position: absolute; top: 25px; left: 5px; 
@@ -77,10 +76,10 @@ div {
 
 #about{
 float: left;
-clear:both;
+clear:left;
 }
 #services{float: right;
-	clear:both;
+	clear:right;
 }
 
 footer {
@@ -88,7 +87,6 @@ footer {
 	padding: 1em 0;
 	clear: both; 
 }
-
 @media only screen and (max-width: 800px){
 	nav {
 		float: none;}
